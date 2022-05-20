@@ -12,6 +12,4 @@
    - 02. (in VS Code) 코드 생성 및 수정 (Open in Visual Studio Code in GitDesktop app)
    - 03. (in GitDesktop) 변경사항(Changes) Summary 및 Description 작성 -> Commit to main 
    - 04. (in GitDesktop) Push origin -> git에 수정사항 반영
-
- # 다른쪽에서 소스 수정했을 때 받아오기
- - (in GitDesktop) Fetch origin - 다른곳에서 변경된 소스코드 받아오기(from git) 
+   - 05. (in GitDesktop) Fetch origin - 다른곳에서 변경된 소스코드 받아오기(from git) 
