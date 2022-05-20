@@ -27,4 +27,4 @@
 
 - 설치 
      - https://nodejs.org/ko/download/
-     - 참고 : youtube.com/watch?v=u5dwJv6jxWg&list=PLeNJ9AVv90q33BdLOMbqpjloT9SaMExVn&index=2
+     - 참고 : https://www.youtube.com/watch?v=u5dwJv6jxWg&list=PLeNJ9AVv90q33BdLOMbqpjloT9SaMExVn&index=2
