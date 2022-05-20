@@ -6,7 +6,7 @@
 - 파이썬
 
 ## GitHub
- # GitHub Desktop 사용으로 관리
+ - GitHub Desktop 사용으로 관리
  - 참고강의 : https://www.youtube.com/watch?v=0YsMEPxi_wc&list=PLeNJ9AVv90q36cH_SMBTZ26MMXgyNtE9W
    - 01. repository 생성 또는 가져오기(clone) 
    - 02. (in VS Code) 코드 생성 및 수정 (Open in Visual Studio Code in GitDesktop app)
