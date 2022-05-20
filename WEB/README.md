@@ -20,7 +20,11 @@
         - 그로인한 오픈 소스 생태계 구축 -> 빠른 개발 가능 
 
  - 결론
-     NodeJS를 이용하면 Javascript로 Frontend & Backend 모두 개발 가능
-     다양한 패키지들을 무료로 사용 가능
-     처리속도가 빠르기 때문에 Entere 환경에서도 많이 사용
-     다른 언어에 비해 훨씬 적은 코드로 프로그램 개발
+     - NodeJS를 이용하면 Javascript로 Frontend & Backend 모두 개발 가능
+       다양한 패키지들을 무료로 사용 가능
+       처리속도가 빠르기 때문에 Entere 환경에서도 많이 사용
+       다른 언어에 비해 훨씬 적은 코드로 프로그램 개발
+
+- 설치 
+     - https://nodejs.org/ko/download/
+     - 참고 : youtube.com/watch?v=u5dwJv6jxWg&list=PLeNJ9AVv90q33BdLOMbqpjloT9SaMExVn&index=2
