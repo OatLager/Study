@@ -1,5 +1,4 @@
-## 웹 개발 로드맵 정리
-- 강의 : https://www.youtube.com/watch?v=TTLHd3IyErM&list=PLnghyCplEgRe-C3if0IJ4h0BOpz68ZBx5&index=2
+
 
 # NodeJS 
  - 관련 내용 참고 : https://www.youtube.com/watch?v=1iaSSvS64Sw&list=PLeNJ9AVv90q33BdLOMbqpjloT9SaMExVn

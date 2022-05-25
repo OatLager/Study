@@ -1,9 +1,13 @@
 # Study
 
+## ROS
+ - 공부예정
+
+
 ## Coding  
-- 웹 (HTML/CSS/JAVA SCRIPT)
-- 데스크탑 앱(일렉트론)
-- 파이썬
+- WEB 개발 (HTML/CSS/JavaScript)
+- Desktop App(일렉트론)
+- Python
 
 ## GitHub
  - GitHub Desktop 사용으로 관리
