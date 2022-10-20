@@ -44,7 +44,7 @@
   - 변경된 부분부터 image를 만들기 때문에 시간단축, 효율성이 높음. 
   - docker build 명령어로 image 생성
   
- docker run 명령어로 컨테이너 실행
- docker ps 현재 실행중인 컨테이너 확인
+ - docker run 명령어로 컨테이너 실행
+ - docker ps 현재 실행중인 컨테이너 확인
  
  
