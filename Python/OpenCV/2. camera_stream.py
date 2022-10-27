@@ -4,7 +4,8 @@ import cv2
 #cap = cv2.VideoCapture(0) # 0번째 카메라 장치 (Device ID)
 
 ## IP Camera 출력
-url = 'rtsp://username : password@192.168.2.119:554'
+# url = 'rtsp://username : password@192.168.2.119:554'
+url = 'rtsp://username : password@223.171.84.10:8554/main.264'
 
 cap = cv2.VideoCapture(url)
 
