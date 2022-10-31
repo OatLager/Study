@@ -48,3 +48,17 @@
  - docker ps 현재 실행중인 컨테이너 확인
  
  
+ ## Qt
+  - GUI 개발 툴, 크로스 플랫폼
+  - 프론트 : QML(자체 언어), 자바스크립트
+  - 백엔드 : C++, Python
+ 
+ 
+ ## 확장자
+  - json : javascript object notation / 자바스크립트 오브젝트 표현방식, 설정에 많이 사용됨.
+           (https://blog.naver.com/wideeyed/221722164932)
+  - xml :  Extensible Markup Language / 데이터의 이동, 구조 및 설정 저장
+           (https://ko.eyewated.com/xml-%ED%8C%8C%EC%9D%BC%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C/)
+  - yaml : YAML Ain't Markup Language / 가독성이 뛰어남
+           (https://blog.naver.com/wideeyed/221090209367)
+ 
